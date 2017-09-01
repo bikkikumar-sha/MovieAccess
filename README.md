@@ -3,8 +3,15 @@ MovieAccess
 This app lists the top movies and displays movie details.
 It also has a download feature.
 
-More info on the USGS Earthquake API available at:
+More info on the Movies API available at:
 https://yts.ag/api
+
+Features
+--------------
+1. Lists top movies
+2. Search functionality
+3. Added youtube API for trailer
+4. Added download movie functionality.
 
 Pre-requisites
 --------------
